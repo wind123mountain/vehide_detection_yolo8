@@ -1,6 +1,8 @@
 /__pycache__/
 /colab_data_src/
-/datasets/
+/datasets/dataset_medium/
+/datasets/dataset_small/
+/datasets/*.zip
 /vietnamese_vehicles_dataset/
 /yolov8_detection-main/
 /YOLOv8-dfl-master/
