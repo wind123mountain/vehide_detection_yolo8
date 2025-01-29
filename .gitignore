@@ -1,0 +1,8 @@
+/__pycache__/
+/colab_data_src/
+/datasets/
+/vietnamese_vehicles_dataset/
+/yolov8_detection-main/
+/YOLOv8-dfl-master/
+*.zip
+vehicle_detection.ipynb
